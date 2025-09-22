@@ -9,7 +9,7 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   background: hsl(91, 100%, 24%);
-  color: #333;
+  color: hwb(279 3% 27%);
 }
 
 header {
